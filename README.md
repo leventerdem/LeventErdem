@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OffLevopro
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning PHP
-- 📫 You can reach me by levent.erdem@exdex.net
+- 📫 You can reach me by me@levent.uno
 
 <!---
 OffLevopro/OffLevopro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
