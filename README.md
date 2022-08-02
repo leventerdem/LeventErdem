@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheLeventErdem
 - 👀 I’m interested in iOS/Swift Developing
 - 🌱 I’m currently learning Swift
-- 📫 You can reach me by me@levent.uno
-- 💻 My website https://levent.uno
-- 🦜 Me in Twitter /theleventerdem
+- 📫 You can reach me by llevent.erdemm@icloud.com
+- 🦜 Me in Twitter /theLeventErdem
