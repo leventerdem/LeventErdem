@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLeventErdem
+- 👋 Hi, I’m @theLeventErdem
 - 👀 I’m interested in iOS/Swift Developing
 - 🌱 I’m currently learning Swift
 - 📫 You can reach me by llevent.erdemm@icloud.com
